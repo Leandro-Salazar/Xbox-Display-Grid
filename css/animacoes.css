@@ -1,0 +1,30 @@
+.menu__link:hover {
+    color: #9BF00B;
+}
+
+.menu__link.ativo{
+    border-bottom: 2px solid #9BF00B;
+}
+
+.destaques__categorias___link:hover{
+    color: #9BF00B;
+ 
+} 
+
+.populares__card___titulo:hover{
+    border-bottom: 2px ridge #9BF00B;
+    cursor: pointer;
+}
+
+.caixa:hover {
+    transition: 0.8s;
+    transform: scale(1.02);
+    border: 2px ridge #9BF00B ;
+    
+}
+
+.populares__card:hover{
+    transition: 0.8s;
+    transform: scale(1.02);
+    border: 1px ridge #9BF00B ;
+}
